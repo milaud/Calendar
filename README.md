@@ -11,11 +11,7 @@ Example:
 
 Piano Class;2016;6;8;T;9;11;
 
-Math Class;2016;7;8;MW;17;18;
-
 CS151 Class;2016;6;8;MW;10;12;
-
-CS146 Class;2016;6;8;MW;18;20;
 
 Exercise;2016;7;8;MWF;5;6;
 
@@ -24,7 +20,3 @@ Yoga;2016;2;3;A;5;6;
 Hiking;2016;7;8;TH;17;18;
 
 Ski;2016;1;2;AS;9;18;
-
-Weekly Report Due;2016;8;8;M;6;7;
-
-Homework Due;2016;6;8;A;18;19;
