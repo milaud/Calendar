@@ -73,7 +73,7 @@ public class EventModel {
 	
 	/**
 	 * Gets the year.
-	 * @return
+	 * @return the year number
 	 */
 	public int getYearNumber() {
 		return cal.get(Calendar.YEAR);
