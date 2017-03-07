@@ -1,4 +1,5 @@
 # Calendar
+The main method to run this program is SimpleCalendar.java.
 
 This is a simple calendar that allows users to create events that will be automatically saved onto a .data file and can be accessed through the calendar. The user can also import their own frequent events from a .txt file using the following format:
 
